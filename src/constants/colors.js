@@ -1,0 +1,15 @@
+export default {
+  themeColor: '#5c6bc0',
+  searchBarBorderColor: '#70707040',
+  greyTextColor: '#9F9D9D',
+  greyColor: 'grey',
+  greyDarkTextColor: '#3A3A3C',
+  redErrorColor: '#FF0000',
+  whiteColor: '#FFFFFF',
+  blackColor: '#000000',
+  bottomTabSeperatorColor: '#707070',
+  facebookBlue: '#3F51B4',
+  googleGrey: '#EAEAEA',
+  transparent: 'transparent',
+  blackOpacityColor: 'rgba(0,0,0,0.3)',
+};
